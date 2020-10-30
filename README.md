@@ -1,6 +1,6 @@
 # Apuntes del Master en Ingenieria Informática - FIB UPC
 
-[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoMEItori)
+[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoMEItori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoMEItori)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoMEItori)
 [![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoMEItori.svg)](https://GitHub.com/RepoFIBtori/RepoMEItori/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoMEItori.svg)](https://GitHub.com/RepoFIBtori/RepoMEItori/network/)
