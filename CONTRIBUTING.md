@@ -1,13 +1,13 @@
-## Guia per a participar i contribuir 
+## Guia para participar y contribuir 
 
-- Pots penjar qualsevol tipus de recurs sempre i quan creguis que podrà ser d'ajuda per a l'estudiant (no pengis coses que estan malament).
+- Puedes colgar cualquier tipo de recurso que creas que podrá ser de ayuda para los estudiantes (no cuelgues cosas que estan mal, o avisa de que no esta bien del todo).
 
-- Si penges treballs que has fet en grup, ha de ser amb el consentiment de tots els teus companys.
+- Si cuelgas trabajos que has hecho en grupo, ha de ser con el consentimiento de todos tus compañeros.
 
-- En el cas que pengis recursos que no siguin teus, assegura't que tens el permís de la persona o la persona en concret ho té penjat públicament (en aquest cas fica el link al recurs).
+- En el caso de que cuelgues recursos que no sean tuyos, asegurate de que tienes el permiso de la persona o la persona en concreto lo tiene colgado publicamente (en este caso pon el link al recurso).
 
-- Si veus que no hi ha disponible l'enunciat del treball que vas a penjar, siusplau penja'l. 
+- Si ves que no esta disponible el enunciado del trabajo que vas a colgar, porfavor cuelgalo también.
 
-- És preferible penjar un link al teu treball i no penjar-lo directament. Així el repositori no s'emplena tant ràpid i queda tot més ordenat.
+- Es preferible colgar un link a un trabajo tuyo y no colgar el trabajo directamente. Asi el repositorio no se llena tan rapido y queda todo mas ordenado.
 
-- Recorda posar la nota dels recursos evaluables que penjis.
+- Recorda poner la nota de los recursos evaluables que cuelgues.
