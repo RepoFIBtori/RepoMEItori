@@ -13,7 +13,7 @@
 Queremos que participes! Cuantos más estudiantes nos involucremos, más nos beneficiaremos! 
 Para participar, solo es necesario hacer un pull-request con lo que quieras compartir. Si tienes pensado ser más activo unete a la organización, aceptamos a todo el mundo!
 
-Si te decides a contribuir, leete esta guia 📖[CONTRIBUTING.md](.github/CONTRIBUTING.md) <small>plis</small>. 😇
+Si te decides a contribuir, leete esta guia 📖[CONTRIBUTING.md](CONTRIBUTING.md) <small>plis</small>. 😇
 
 ## 🎓 Asignaturas
 
