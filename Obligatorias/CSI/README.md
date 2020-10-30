@@ -1,5 +1,6 @@
 # CSI - Computació i Sistemes Intel·ligents
 
 
+## Practicas
 
-TODO
+- [Practicas CSI - Carlota Catot](https://github.com/carlotacb/CSI-Practicas)
